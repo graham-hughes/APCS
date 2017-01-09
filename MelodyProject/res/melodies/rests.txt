@@ -1,0 +1,10 @@
+A song with rests
+Marty Stepp
+7
+.5 C 4 NATURAL false
+.25 R false
+.5 D 4 NATURAL false
+.25 R false
+.5 E 4 NATURAL false
+.25 R false
+.5 F 4 NATURAL false
